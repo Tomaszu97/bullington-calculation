@@ -1,0 +1,528 @@
+﻿Wyniki testów kasina/nowadęba/rabka dla
+230 MHz/410 MHz/860 MHz/1800 MHz/2,4 GHz/5,8 GHz
+
+kasina@230MHz
+Częstotliwość: 230.0 MHz
+Pozycja nadajnika: 0.0 m
+Wysokość nadajnika n.p.m.: 518.8 m
+Pozycja odbiornika: 33300.0 m
+Wysokość odbiornika n.p.m.: 550.7 m
+Pozycja przeszkody 1: 2100.0 m
+Wysokość przeszkody 1 n.p.m.: 644.4 m
+Pozycja przeszkody 2: 27849.0 m
+Wysokość przeszkody 2 n.p.m.: 976.7 m
+Pozycja przeszkody zastępczej: 19094.8 m
+Wysokość przeszkody zastępczej n.p.m.: 1660.8 m
+a=19128.9 m
+b=14248.54 m
+d1=19095.86 m
+d2=14204.15 m
+h=1123.76 m
+Parametr v=15.42
+Promienie stref fresnela dla odległości d1 od TX do RX:
+Promień 1 strefy r1=103.07 m
+Promień 2 strefy r2=145.77 m
+Promień 3 strefy r3=178.53 m
+C(v)=-0.009
+S(v)=-0.019
+Re(F(v))=-0.014
+Im(F(v))=0.005
+|F(v)|=0.015
+F[dB]=36.714
+
+kasina@410MHz
+Częstotliwość: 410.0 MHz
+Pozycja nadajnika: 0.0 m
+Wysokość nadajnika n.p.m.: 518.8 m
+Pozycja odbiornika: 33300.0 m
+Wysokość odbiornika n.p.m.: 550.7 m
+Pozycja przeszkody 1: 2100.0 m
+Wysokość przeszkody 1 n.p.m.: 644.4 m
+Pozycja przeszkody 2: 27849.0 m
+Wysokość przeszkody 2 n.p.m.: 976.7 m
+Pozycja przeszkody zastępczej: 19094.8 m
+Wysokość przeszkody zastępczej n.p.m.: 1660.8 m
+a=19128.9 m
+b=14248.54 m
+d1=19095.86 m
+d2=14204.15 m
+h=1123.76 m
+Parametr v=20.59
+Promienie stref fresnela dla odległości d1 od TX do RX:
+Promień 1 strefy r1=77.2 m
+Promień 2 strefy r2=109.18 m
+Promień 3 strefy r3=133.72 m
+C(v)=0.006
+S(v)=0.014
+Re(F(v))=0.01
+Im(F(v))=-0.004
+|F(v)|=0.011
+F[dB]=39.225
+
+kasina@860MHz
+Częstotliwość: 860.0 MHz
+Pozycja nadajnika: 0.0 m
+Wysokość nadajnika n.p.m.: 518.8 m
+Pozycja odbiornika: 33300.0 m
+Wysokość odbiornika n.p.m.: 550.7 m
+Pozycja przeszkody 1: 2100.0 m
+Wysokość przeszkody 1 n.p.m.: 644.4 m
+Pozycja przeszkody 2: 27849.0 m
+Wysokość przeszkody 2 n.p.m.: 976.7 m
+Pozycja przeszkody zastępczej: 19094.8 m
+Wysokość przeszkody zastępczej n.p.m.: 1660.8 m
+a=19128.9 m
+b=14248.54 m
+d1=19095.86 m
+d2=14204.15 m
+h=1123.76 m
+Parametr v=29.81
+Promienie stref fresnela dla odległości d1 od TX do RX:
+Promień 1 strefy r1=53.3 m
+Promień 2 strefy r2=75.38 m
+Promień 3 strefy r3=92.33 m
+C(v)=-0.01
+S(v)=0.002
+Re(F(v))=-0.004
+Im(F(v))=-0.006
+|F(v)|=0.008
+F[dB]=42.442
+
+kasina@1800MHz
+Częstotliwość: 1800.0 MHz
+Pozycja nadajnika: 0.0 m
+Wysokość nadajnika n.p.m.: 518.8 m
+Pozycja odbiornika: 33300.0 m
+Wysokość odbiornika n.p.m.: 550.7 m
+Pozycja przeszkody 1: 2100.0 m
+Wysokość przeszkody 1 n.p.m.: 644.4 m
+Pozycja przeszkody 2: 27849.0 m
+Wysokość przeszkody 2 n.p.m.: 976.7 m
+Pozycja przeszkody zastępczej: 19094.8 m
+Wysokość przeszkody zastępczej n.p.m.: 1660.8 m
+a=19128.9 m
+b=14248.54 m
+d1=19095.86 m
+d2=14204.15 m
+h=1123.76 m
+Parametr v=43.13
+Promienie stref fresnela dla odległości d1 od TX do RX:
+Promień 1 strefy r1=36.85 m
+Promień 2 strefy r2=52.11 m
+Promień 3 strefy r3=63.82 m
+C(v)=-0.005
+S(v)=0.006
+Re(F(v))=0.0
+Im(F(v))=-0.005
+|F(v)|=0.005
+F[dB]=45.649
+
+kasina@2,4GHz
+Częstotliwość: 2400.0 MHz
+Pozycja nadajnika: 0.0 m
+Wysokość nadajnika n.p.m.: 518.8 m
+Pozycja odbiornika: 33300.0 m
+Wysokość odbiornika n.p.m.: 550.7 m
+Pozycja przeszkody 1: 2100.0 m
+Wysokość przeszkody 1 n.p.m.: 644.4 m
+Pozycja przeszkody 2: 27849.0 m
+Wysokość przeszkody 2 n.p.m.: 976.7 m
+Pozycja przeszkody zastępczej: 19094.8 m
+Wysokość przeszkody zastępczej n.p.m.: 1660.8 m
+a=19128.9 m
+b=14248.54 m
+d1=19095.86 m
+d2=14204.15 m
+h=1123.76 m
+Parametr v=49.81
+Promienie stref fresnela dla odległości d1 od TX do RX:
+Promień 1 strefy r1=31.91 m
+Promień 2 strefy r2=45.13 m
+Promień 3 strefy r3=55.27 m
+C(v)=-0.005
+S(v)=0.004
+Re(F(v))=-0.001
+Im(F(v))=-0.004
+|F(v)|=0.005
+F[dB]=46.899
+
+kasina@5,8GHz
+Częstotliwość: 5800.0 MHz
+Pozycja nadajnika: 0.0 m
+Wysokość nadajnika n.p.m.: 518.8 m
+Pozycja odbiornika: 33300.0 m
+Wysokość odbiornika n.p.m.: 550.7 m
+Pozycja przeszkody 1: 2100.0 m
+Wysokość przeszkody 1 n.p.m.: 644.4 m
+Pozycja przeszkody 2: 27849.0 m
+Wysokość przeszkody 2 n.p.m.: 976.7 m
+Pozycja przeszkody zastępczej: 19094.8 m
+Wysokość przeszkody zastępczej n.p.m.: 1660.8 m
+a=19128.9 m
+b=14248.54 m
+d1=19095.86 m
+d2=14204.15 m
+h=1123.76 m
+Parametr v=77.43
+Promienie stref fresnela dla odległości d1 od TX do RX:
+Promień 1 strefy r1=20.53 m
+Promień 2 strefy r2=29.03 m
+Promień 3 strefy r3=35.55 m
+C(v)=0.004
+S(v)=-0.002
+Re(F(v))=0.001
+Im(F(v))=0.003
+|F(v)|=0.003
+F[dB]=50.731
+
+################################################################
+
+nowadęba@230MHz
+Częstotliwość: 230.0 MHz
+Pozycja nadajnika: 0.0 m
+Wysokość nadajnika n.p.m.: 155.9 m
+Pozycja odbiornika: 98098.0 m
+Wysokość odbiornika n.p.m.: 201.7 m
+Pozycja przeszkody 1: 12474.0 m
+Wysokość przeszkody 1 n.p.m.: 181.0 m
+Pozycja przeszkody 2: 95102.0 m
+Wysokość przeszkody 2 n.p.m.: 210.3 m
+Pozycja przeszkody zastępczej: 67051.2 m
+Wysokość przeszkody zastępczej n.p.m.: 290.8 m
+a=67051.38 m
+b=31046.88 m
+d1=67051.3 m
+d2=31046.71 m
+h=103.61 m
+Parametr v=0.88
+Promienie stref fresnela dla odległości d1 od TX do RX:
+Promień 1 strefy r1=166.37 m
+Promień 2 strefy r2=235.28 m
+Promień 3 strefy r3=288.16 m
+C(v)=-0.259
+S(v)=0.178
+Re(F(v))=-0.04
+Im(F(v))=-0.219
+|F(v)|=0.222
+F[dB]=13.065
+
+nowadęba@410MHz
+Częstotliwość: 410.0 MHz
+Pozycja nadajnika: 0.0 m
+Wysokość nadajnika n.p.m.: 155.9 m
+Pozycja odbiornika: 98098.0 m
+Wysokość odbiornika n.p.m.: 201.7 m
+Pozycja przeszkody 1: 12474.0 m
+Wysokość przeszkody 1 n.p.m.: 181.0 m
+Pozycja przeszkody 2: 95102.0 m
+Wysokość przeszkody 2 n.p.m.: 210.3 m
+Pozycja przeszkody zastępczej: 67051.2 m
+Wysokość przeszkody zastępczej n.p.m.: 290.8 m
+a=67051.38 m
+b=31046.88 m
+d1=67051.3 m
+d2=31046.71 m
+h=103.61 m
+Parametr v=1.18
+Promienie stref fresnela dla odległości d1 od TX do RX:
+Promień 1 strefy r1=124.61 m
+Promień 2 strefy r2=176.22 m
+Promień 3 strefy r3=215.83 m
+C(v)=-0.23
+S(v)=-0.104
+Re(F(v))=-0.167
+Im(F(v))=-0.063
+|F(v)|=0.178
+F[dB]=14.968
+
+nowadęba@860MHz
+Częstotliwość: 860.0 MHz
+Pozycja nadajnika: 0.0 m
+Wysokość nadajnika n.p.m.: 155.9 m
+Pozycja odbiornika: 98098.0 m
+Wysokość odbiornika n.p.m.: 201.7 m
+Pozycja przeszkody 1: 12474.0 m
+Wysokość przeszkody 1 n.p.m.: 181.0 m
+Pozycja przeszkody 2: 95102.0 m
+Wysokość przeszkody 2 n.p.m.: 210.3 m
+Pozycja przeszkody zastępczej: 67051.2 m
+Wysokość przeszkody zastępczej n.p.m.: 290.8 m
+a=67051.38 m
+b=31046.88 m
+d1=67051.3 m
+d2=31046.71 m
+h=103.61 m
+Parametr v=1.7
+Promienie stref fresnela dla odległości d1 od TX do RX:
+Promień 1 strefy r1=86.04 m
+Promień 2 strefy r2=121.68 m
+Promień 3 strefy r3=149.02 m
+C(v)=0.177
+S(v)=-0.046
+Re(F(v))=0.065
+Im(F(v))=0.111
+|F(v)|=0.129
+F[dB]=17.78
+
+nowadęba@1800MHz
+Częstotliwość: 1800.0 MHz
+Pozycja nadajnika: 0.0 m
+Wysokość nadajnika n.p.m.: 155.9 m
+Pozycja odbiornika: 98098.0 m
+Wysokość odbiornika n.p.m.: 201.7 m
+Pozycja przeszkody 1: 12474.0 m
+Wysokość przeszkody 1 n.p.m.: 181.0 m
+Pozycja przeszkody 2: 95102.0 m
+Wysokość przeszkody 2 n.p.m.: 210.3 m
+Pozycja przeszkody zastępczej: 67051.2 m
+Wysokość przeszkody zastępczej n.p.m.: 290.8 m
+a=67051.38 m
+b=31046.88 m
+d1=67051.3 m
+d2=31046.71 m
+h=103.61 m
+Parametr v=2.46
+Promienie stref fresnela dla odległości d1 od TX do RX:
+Promień 1 strefy r1=59.47 m
+Promień 2 strefy r2=84.1 m
+Promień 3 strefy r3=103.01 m
+C(v)=0.008
+S(v)=-0.128
+Re(F(v))=-0.06
+Im(F(v))=0.068
+|F(v)|=0.091
+F[dB]=20.841
+
+nowadęba@2,4GHz
+Częstotliwość: 2400.0 MHz
+Pozycja nadajnika: 0.0 m
+Wysokość nadajnika n.p.m.: 155.9 m
+Pozycja odbiornika: 98098.0 m
+Wysokość odbiornika n.p.m.: 201.7 m
+Pozycja przeszkody 1: 12474.0 m
+Wysokość przeszkody 1 n.p.m.: 181.0 m
+Pozycja przeszkody 2: 95102.0 m
+Wysokość przeszkody 2 n.p.m.: 210.3 m
+Pozycja przeszkody zastępczej: 67051.2 m
+Wysokość przeszkody zastępczej n.p.m.: 290.8 m
+a=67051.38 m
+b=31046.88 m
+d1=67051.3 m
+d2=31046.71 m
+h=103.61 m
+Parametr v=2.85
+Promienie stref fresnela dla odległości d1 od TX do RX:
+Promień 1 strefy r1=51.5 m
+Promień 2 strefy r2=72.84 m
+Promień 3 strefy r3=89.21 m
+C(v)=-0.012
+S(v)=0.111
+Re(F(v))=0.049
+Im(F(v))=-0.062
+|F(v)|=0.079
+F[dB]=22.067
+
+nowadęba@5,8GHz
+Częstotliwość: 5800.0 MHz
+Pozycja nadajnika: 0.0 m
+Wysokość nadajnika n.p.m.: 155.9 m
+Pozycja odbiornika: 98098.0 m
+Wysokość odbiornika n.p.m.: 201.7 m
+Pozycja przeszkody 1: 12474.0 m
+Wysokość przeszkody 1 n.p.m.: 181.0 m
+Pozycja przeszkody 2: 95102.0 m
+Wysokość przeszkody 2 n.p.m.: 210.3 m
+Pozycja przeszkody zastępczej: 67051.2 m
+Wysokość przeszkody zastępczej n.p.m.: 290.8 m
+a=67051.38 m
+b=31046.88 m
+d1=67051.3 m
+d2=31046.71 m
+h=103.61 m
+Parametr v=4.42
+Promienie stref fresnela dla odległości d1 od TX do RX:
+Promień 1 strefy r1=33.13 m
+Promień 2 strefy r2=46.85 m
+Promień 3 strefy r3=57.38 m
+C(v)=0.047
+S(v)=0.055
+Re(F(v))=0.051
+Im(F(v))=-0.004
+|F(v)|=0.051
+F[dB]=25.873
+
+################################################################
+
+rabka@230MHz
+Częstotliwość: 230.0 MHz
+Pozycja nadajnika: 0.0 m
+Wysokość nadajnika n.p.m.: 474.5 m
+Pozycja odbiornika: 60870.0 m
+Wysokość odbiornika n.p.m.: 280.4 m
+Pozycja przeszkody 1: 4200.0 m
+Wysokość przeszkody 1 n.p.m.: 643.9 m
+Pozycja przeszkody 2: 34100.0 m
+Wysokość przeszkody 2 n.p.m.: 1019.8 m
+Pozycja przeszkody zastępczej: 21884.8 m
+Wysokość przeszkody zastępczej n.p.m.: 1357.2 m
+a=21902.63 m
+b=39000.03 m
+d1=21881.91 m
+d2=38988.4 m
+h=952.47 m
+Parametr v=9.96
+Promienie stref fresnela dla odległości d1 od TX do RX:
+Promień 1 strefy r1=135.21 m
+Promień 2 strefy r2=191.21 m
+Promień 3 strefy r3=234.19 m
+C(v)=0.03
+S(v)=0.012
+Re(F(v))=0.021
+Im(F(v))=0.009
+|F(v)|=0.023
+F[dB]=32.921
+
+rabka@410MHz
+Częstotliwość: 410.0 MHz
+Pozycja nadajnika: 0.0 m
+Wysokość nadajnika n.p.m.: 474.5 m
+Pozycja odbiornika: 60870.0 m
+Wysokość odbiornika n.p.m.: 280.4 m
+Pozycja przeszkody 1: 4200.0 m
+Wysokość przeszkody 1 n.p.m.: 643.9 m
+Pozycja przeszkody 2: 34100.0 m
+Wysokość przeszkody 2 n.p.m.: 1019.8 m
+Pozycja przeszkody zastępczej: 21884.8 m
+Wysokość przeszkody zastępczej n.p.m.: 1357.2 m
+a=21902.63 m
+b=39000.03 m
+d1=21881.91 m
+d2=38988.4 m
+h=952.47 m
+Parametr v=13.3
+Promienie stref fresnela dla odległości d1 od TX do RX:
+Promień 1 strefy r1=101.27 m
+Promień 2 strefy r2=143.22 m
+Promień 3 strefy r3=175.4 m
+C(v)=-0.024
+S(v)=0.003
+Re(F(v))=-0.01
+Im(F(v))=-0.013
+|F(v)|=0.017
+F[dB]=35.431
+
+rabka@860MHz
+Częstotliwość: 860.0 MHz
+Pozycja nadajnika: 0.0 m
+Wysokość nadajnika n.p.m.: 474.5 m
+Pozycja odbiornika: 60870.0 m
+Wysokość odbiornika n.p.m.: 280.4 m
+Pozycja przeszkody 1: 4200.0 m
+Wysokość przeszkody 1 n.p.m.: 643.9 m
+Pozycja przeszkody 2: 34100.0 m
+Wysokość przeszkody 2 n.p.m.: 1019.8 m
+Pozycja przeszkody zastępczej: 21884.8 m
+Wysokość przeszkody zastępczej n.p.m.: 1357.2 m
+a=21902.63 m
+b=39000.03 m
+d1=21881.91 m
+d2=38988.4 m
+h=952.47 m
+Parametr v=19.26
+Promienie stref fresnela dla odległości d1 od TX do RX:
+Promień 1 strefy r1=69.92 m
+Promień 2 strefy r2=98.89 m
+Promień 3 strefy r3=121.11 m
+C(v)=0.016
+S(v)=0.003
+Re(F(v))=0.009
+Im(F(v))=0.007
+|F(v)|=0.012
+F[dB]=38.648
+
+rabka@1800MHz
+Częstotliwość: 1800.0 MHz
+Pozycja nadajnika: 0.0 m
+Wysokość nadajnika n.p.m.: 474.5 m
+Pozycja odbiornika: 60870.0 m
+Wysokość odbiornika n.p.m.: 280.4 m
+Pozycja przeszkody 1: 4200.0 m
+Wysokość przeszkody 1 n.p.m.: 643.9 m
+Pozycja przeszkody 2: 34100.0 m
+Wysokość przeszkody 2 n.p.m.: 1019.8 m
+Pozycja przeszkody zastępczej: 21884.8 m
+Wysokość przeszkody zastępczej n.p.m.: 1357.2 m
+a=21902.63 m
+b=39000.03 m
+d1=21881.91 m
+d2=38988.4 m
+h=952.47 m
+Parametr v=27.87
+Promienie stref fresnela dla odległości d1 od TX do RX:
+Promień 1 strefy r1=48.33 m
+Promień 2 strefy r2=68.35 m
+Promień 3 strefy r3=83.71 m
+C(v)=-0.01
+S(v)=0.005
+Re(F(v))=-0.003
+Im(F(v))=-0.008
+|F(v)|=0.008
+F[dB]=41.856
+
+rabka@2,4GHz
+Częstotliwość: 2400.0 MHz
+Pozycja nadajnika: 0.0 m
+Wysokość nadajnika n.p.m.: 474.5 m
+Pozycja odbiornika: 60870.0 m
+Wysokość odbiornika n.p.m.: 280.4 m
+Pozycja przeszkody 1: 4200.0 m
+Wysokość przeszkody 1 n.p.m.: 643.9 m
+Pozycja przeszkody 2: 34100.0 m
+Wysokość przeszkody 2 n.p.m.: 1019.8 m
+Pozycja przeszkody zastępczej: 21884.8 m
+Wysokość przeszkody zastępczej n.p.m.: 1357.2 m
+a=21902.63 m
+b=39000.03 m
+d1=21881.91 m
+d2=38988.4 m
+h=952.47 m
+Parametr v=32.18
+Promienie stref fresnela dla odległości d1 od TX do RX:
+Promień 1 strefy r1=41.86 m
+Promień 2 strefy r2=59.19 m
+Promień 3 strefy r3=72.5 m
+C(v)=0.005
+S(v)=0.008
+Re(F(v))=0.007
+Im(F(v))=-0.001
+|F(v)|=0.007
+F[dB]=43.105
+
+rabka@5,8GHz
+Częstotliwość: 5800.0 MHz
+Pozycja nadajnika: 0.0 m
+Wysokość nadajnika n.p.m.: 474.5 m
+Pozycja odbiornika: 60870.0 m
+Wysokość odbiornika n.p.m.: 280.4 m
+Pozycja przeszkody 1: 4200.0 m
+Wysokość przeszkody 1 n.p.m.: 643.9 m
+Pozycja przeszkody 2: 34100.0 m
+Wysokość przeszkody 2 n.p.m.: 1019.8 m
+Pozycja przeszkody zastępczej: 21884.8 m
+Wysokość przeszkody zastępczej n.p.m.: 1357.2 m
+a=21902.63 m
+b=39000.03 m
+d1=21881.91 m
+d2=38988.4 m
+h=952.47 m
+Parametr v=50.03
+Promienie stref fresnela dla odległości d1 od TX do RX:
+Promień 1 strefy r1=26.92 m
+Promień 2 strefy r2=38.08 m
+Promień 3 strefy r3=46.64 m
+C(v)=0.006
+S(v)=-0.002
+Re(F(v))=0.002
+Im(F(v))=0.004
+|F(v)|=0.004
+F[dB]=46.938
