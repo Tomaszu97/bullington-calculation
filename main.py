@@ -152,8 +152,8 @@ class Bullington():
         self.r3 = math.sqrt((3*self.wavelength*self.d1*self.d2)/(self.d1+self.d2))
 
     def calc_C_S_F(self):
-        self.C = 0.5 - integrate.quad(lambda t: math.cos( (math.pi/2)*(t**2) ) , 0, self.v)[0]
-        self.S = 0.5 - integrate.quad(lambda t: math.sin( (math.pi/2)*(t**2) ) , 0, self.v)[0]
+        self.C = 0.5 - integrate.quad(lambda t: math.cos( (math.pi/2)*(t**2) ) , 0, self.v, limit=2000)[0]
+        self.S = 0.5 - integrate.quad(lambda t: math.sin( (math.pi/2)*(t**2) ) , 0, self.v, limit=2000)[0]
         self.F = ((1+1j)/2)*complex(self.C, -self.S)
 
     def calc_all(self):
@@ -272,11 +272,14 @@ try:
         bul.print_all_data()
         bul.make_plot_image()
         exit()
+    elif filename == '':
+        print('Ładowanie płaskiego terenu')
+        bul.load_terrain('flat.csv')
     else:
         bul.load_terrain(input)
 except TypeError:
-    print('Ładowanie płaskiego terenu')
-    bul.load_terrain('flat.csv')
+    print('Błąd!')
+    exit()
 
 frequency = int(input('Podaj częstotliwość w MHz:\n'))
 bul.set_frequency(frequency)
