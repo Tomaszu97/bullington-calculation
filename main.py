@@ -20,7 +20,7 @@ class Bullington():
         plt.style.use('dark_background')
         plt.figure(figsize=(16.2,10.8))
         plt.tight_layout()
-        plt.grid()
+        plt.grid(alpha=0.4)
 
         # axes = plt.gca()
         # axes.set_xlim([0,10000])
@@ -58,14 +58,23 @@ class Bullington():
 
     def plot_apexes(self):
         plt.scatter(self.TX[0], self.TX[1], c='#0066FF', zorder=10)
+        plt.plot( (self.TX[0], self.TX[0]),(self.TX[1], np.amin(self.terrain[:,1])) , c='#0066FF')
         plt.text(self.TX[0], self.TX[1],' TX', c='#0066FF', fontsize = 14, weight='bold')
+       
         plt.scatter(self.RX[0], self.RX[1], c='#11CC11', zorder=10)
+        plt.plot( (self.RX[0], self.RX[0]),(self.RX[1], np.amin(self.terrain[:,1])) , c='#11CC11')
         plt.text(self.RX[0], self.RX[1],' RX', c='#11CC11', fontsize = 14, weight='bold')
+       
         plt.scatter(self.O1[0], self.O1[1], c='#AA3333', zorder=10)
+        plt.plot( (self.O1[0], self.O1[0]),(self.O1[1], np.amin(self.terrain[:,1])) , c='#AA3333')
         plt.text(self.O1[0], self.O1[1],' O1', c='#AA3333', fontsize = 14, weight='bold')
+       
         plt.scatter(self.O2[0], self.O2[1], c='#AA3300', zorder=10)
+        plt.plot( (self.O2[0], self.O2[0]),(self.O2[1], np.amin(self.terrain[:,1])) , c='#AA3333')
         plt.text(self.O2[0], self.O2[1],' O2', c='#AA3333', fontsize = 14, weight='bold')
+       
         plt.scatter(self.BEQ[0], self.BEQ[1], c='#FF3300', zorder=10)
+        plt.plot( (self.BEQ[0], self.BEQ[0]),(self.BEQ[1], np.amin(self.terrain[:,1])) , c='#FF3300')
         plt.text(self.BEQ[0], self.BEQ[1],' BEQ', c='#FF3300', fontsize = 14, weight='bold')
 
 
