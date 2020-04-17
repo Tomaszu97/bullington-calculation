@@ -272,9 +272,9 @@ try:
         bul.load_terrain('profil_rabkazdroj_nowysacz.csv')
         frequency = int(input('Podaj częstotliwość w MHz:\n'))
         bul.set_frequency(frequency)
-        bul.place_object(11600, 0, type='TX')
-        bul.place_object(42468, 0, type='RX')
-        bul.place_object(22776, 0, type='O1')
+        bul.place_object(0, 0, type='TX')
+        bul.place_object(60870, 0, type='RX')
+        bul.place_object(4200, 0, type='O1')
         bul.place_object(34099, 0, type='O2')
         
         bul.calc_all()
